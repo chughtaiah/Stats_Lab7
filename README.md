@@ -37,26 +37,6 @@ Return:
 
 ---
 
-## Formulas
-
-E[X] = a / 2
-
-Var(X) = a^2 / 12
-
-E[X^2] = a^2 / 3
-
-Var(X) = E[X^2] - (E[X])^2
-
----
-
-## Transformation
-
-Z = 2X + 1
-
-E[Z] = 2E[X] + 1
-
-Var(Z) = 4 Var(X)
-
 ---
 
 ## Errors
