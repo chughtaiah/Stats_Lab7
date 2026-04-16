@@ -73,12 +73,3 @@ pytest test_AIstats_lab.py -q
 pip install numpy pytest
 
 ---
-
-## Example
-
-For a = 6:
-
-E[X] = 3  
-Var(X) = 3  
-E[Z] = 7  
-Var(Z) = 12
